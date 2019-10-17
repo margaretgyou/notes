@@ -1,0 +1,9 @@
+npm-debug.log*
+to-do.txt
+/.idea
+.idea
+.DS_Store
+**/.DS_Store
+.idea/**/workspace.xml
+**/logs/debug.log
+**/logs
